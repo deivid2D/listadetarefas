@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(44, 99, 131);
+    color: rgb(65, 156, 209);
     font-size: 40px;
     text-align: center;
 }
@@ -13,8 +13,8 @@ body {
 
 input {
     height: 50px;
-    border: 2px solid #84568e;
-    background-color: #333;
+    border: 2px solid #45244d;
+    background-color: #913d3d;
     color: #eee;
     outline: none;
     border-radius: 10px 10px 10px 10px;
